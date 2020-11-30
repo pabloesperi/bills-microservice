@@ -1,0 +1,1 @@
+INSERT INTO BILLS (id, bill_number, person, product) VALUES (1, 1, 'Pablo Esperi', 'Camiseta');
